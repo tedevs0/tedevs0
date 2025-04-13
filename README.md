@@ -50,11 +50,11 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="30" alt="nextjs logo"  />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="30" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="30" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/github/181717" height="30" alt="github logo"  />
   <img width="12" />
