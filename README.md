@@ -24,7 +24,7 @@
 
 <div align="center">
 
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,astro,bootstrap,cs,dotnet,figma,git,github,ai,java,laravel,linux,mysql,nestjs,nextjs,nodejs,ps,php,postgres,prisma,py,react,tailwind,ts,ubuntu,vercel,visualstudio,vite,vscode&perline=13&theme=light)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,angular,astro,bootstrap,cs,dotnet,figma,git,github,ai,java,laravel,linux,mysql,nestjs,nextjs,nodejs,ps,php,postgres,prisma,py,react,tailwind,ts,ubuntu,vercel,visualstudio,vite,vscode&perline=9&theme=light)](https://skillicons.dev)
 
 </div>
 
