@@ -1,10 +1,12 @@
+### 👋 Welcome!
+
+**Turning ideas into code with clarity and intention.**  
+I build clean, functional interfaces and enjoy solving problems with a sense of humor.  
+I’m not trying to reinvent the galaxy—just making sure things work well and look good along the way.
+
+💼 See more at [tedevs.dev](https://tedevs.vercel.app)
 
 
-###
-
-<p align="left">IT Engineer passionate about frontend development. I'm known for my curiosity and drive to learn something new every day. I enjoy tackling technical challenges—especially when they involve research, interface design, and improving user experience.<br><br>I like building things from scratch and experimenting with ideas through personal projects, which I showcase in my portfolio. Beyond the technical side, I truly value teamwork, a positive environment, and collaboration. I always aim to contribute with a proactive and optimistic attitude.<br><br>I'm open to new opportunities that allow me to keep growing, gain hands-on experience, and bring value to real-world tech projects.</p>
-
-###
 
 <div align="center">
 
