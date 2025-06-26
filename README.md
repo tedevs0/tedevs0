@@ -1,3 +1,5 @@
+<!-- Contador de visitas -->
+![](https://komarev.com/ghpvc/?username=tedevs0&color=blueviolet&style=flat-square)
 ### 👋 Welcome!
 
 **Turning ideas into code with clarity and intention.**  
