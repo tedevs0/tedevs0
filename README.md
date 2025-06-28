@@ -2,9 +2,13 @@
 ![](https://komarev.com/ghpvc/?username=tedevs0&color=blueviolet&style=flat-square)
 ### 👋 Welcome!
 
+
 **Turning ideas into code with clarity and intention.**  
 I build clean, functional interfaces and enjoy solving problems with a sense of humor.  
 I’m not trying to reinvent the galaxy—just making sure things work well and look good along the way.
+
+**IT Engineer and Web Developer⚡️**
+| We need to be better than this! ツ
 
 💼 See more at [tedevs.dev](https://tedevs.vercel.app)
 
