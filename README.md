@@ -10,8 +10,6 @@ I’m not trying to reinvent the galaxy—just making sure things work well and 
 **IT Engineer and Web Developer⚡️**
 | We need to be better than this! ツ
 
-💼 See more at [tedevs.dev](https://tedevs.dev)
-
 
 
 <div align="center">
